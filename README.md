@@ -1,2 +1,2 @@
 # photography-website
-My official website showcases photos of landscapes and objects.
+My website showcases photos of landscapes and objects.
